@@ -1,2 +1,2 @@
 # directx-core
-My directx cire
+My directx core
